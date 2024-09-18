@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Constraint Layout</string>
+    <string name="long_string">Long long long long long long long long long long long long long
+        long long long long long long long long long long long long long long long long long
+
+        long long long long long long long long long long long long long long long long text</string>
 </resources>
